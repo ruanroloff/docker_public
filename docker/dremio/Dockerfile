@@ -15,6 +15,8 @@
 #
 
 FROM openjdk:8-jdk
+#FROM openjdk:8-jdk-alpine3.8
+
 
 LABEL org.label-schema.name='dremio/dremio-oss'
 LABEL org.label-schema.description='Dremio OSS.'

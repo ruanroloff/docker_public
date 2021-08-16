@@ -1,0 +1,12 @@
+[webserver]
+rbac = True
+
+
+airflow webserver
+
+
+airflow initdb
+
+
+airflow scheduler
+
